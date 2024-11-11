@@ -1,4 +1,4 @@
-# Auth Inbox 📬
+# Auth Inbo1x 📬
 
 [English](https://github.com/TooonyChen/AuthInbox/blob/main/README.md) | [简体中文](https://github.com/TooonyChen/AuthInbox/blob/main/README_CN.md)
 
