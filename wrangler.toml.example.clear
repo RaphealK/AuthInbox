@@ -9,12 +9,12 @@ enabled = true
 [vars]
 UseBark = "true"
 barkUrl = "https://api.day.app"
-barkTokens = "[token1, token2]"
-FrontEndAdminID = "admin"
-FrontEndAdminPassword = "password"
-GoogleAPIKey = "xxxxxxxxxxx"
+barkTokens = "[dGJ4iXtw8GNQXcPvN2uGxG]"
+FrontEndAdminID = "Raphael"
+FrontEndAdminPassword = "zzh0714."
+GoogleAPIKey = "AIzaSyDZ9lrXlzv7UQuOZ8NH9Yhuyfam3EbSlf0"
 
 [[d1_databases]]
 binding = "DB"
 database_name = "inbox-d1"
-database_id = "********-****-****-****-************"
+database_id = "4ff2c033-2555-4378-ac69-18d5cba653bb"
